@@ -1,6 +1,0 @@
-Model,PredictivePower,Interpretability,TrainingCost,Robustness,DeploymentSimplicity,Total
-Ridge,3,4,5,4,5,21
-LinearRegression,2,5,5,3,5,20
-XGBoost,5,2,2,4,3,16
-RandomForest,4,2,3,4,3,16
-GradientBoosting,4,2,3,4,3,16
